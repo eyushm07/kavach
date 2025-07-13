@@ -1,29 +1,32 @@
-# Kavach Android App 🚨
+# Kavach - Women's Safety App 🚨
 
-Kavach is a modern Android safety application built with Kotlin, MVVM, Firebase, and Hilt.
+Kavach is a real-time personal safety Android app designed for women. It includes emergency alert triggers, location sharing, Firebase integration, and more.
 
-## 🔧 Tech Stack
+## Features
+- 🔐 Login/Signup with Firebase
+- 📍 Live location tracking (Foreground Service)
+- 🔔 Push notifications (Firebase Messaging)
+- 🆘 Emergency alert activity
+- 📊 Firebase Analytics
+- 🗺️ Google Play Location Services
+- 📦 MVVM architecture with Hilt DI
+
+## Tech Stack
 - Kotlin
-- MVVM Architecture
-- Firebase Auth, Firestore, Messaging
+- MVVM
+- Firebase Auth, Firestore, Functions, Messaging
 - Hilt for Dependency Injection
-- ViewBinding
-- Android Location Services
+- Android Jetpack libraries
 
-## 🔐 Features
-- Login with Firebase
-- Location tracking service
-- Emergency messaging (planned)
-- Clean modular codebase
+## Screenshots
+*(Add if you have)*
 
-## ⚙️ Modules
-- `LoginActivity` – Firebase auth
-- `MainActivity` – Home screen
-- `LocationService` – Background location service
-- `FirebaseModule` – Hilt DI for Firebase
+## Setup
+1. Clone this repo
+2. Open in Android Studio
+3. Connect Firebase
+4. Build & Run
 
-## 📦 Status
-⚠️ In development. Some features may be mocked or incomplete.
+---
 
-## 🧠 Author
-Made with 💻 by [EYUSH MISHRA]
+Made with ❤️ by [EYUSH MISHRA]
