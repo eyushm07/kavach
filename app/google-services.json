@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223287670373",
+    "project_id": "kavach-46293",
+    "storage_bucket": "kavach-46293.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223287670373:android:a1c091bfc76c9fcd30b88c",
+        "android_client_info": {
+          "package_name": "com.spearlabs.kavach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223287670373-ieto745djsdh61joe6hcb1924kdo23ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spearlabs.kavach",
+            "certificate_hash": "851098dac804eaca2efe05dd05e5fd288eccce44"
+          }
+        },
+        {
+          "client_id": "223287670373-7frd561pvvt4m4bmplisvihrkvas2dp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhLNZts46StKNh86664DqNxY9eq1Wv_lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223287670373-7frd561pvvt4m4bmplisvihrkvas2dp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
